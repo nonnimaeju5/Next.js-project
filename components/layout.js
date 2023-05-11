@@ -7,7 +7,7 @@ import Link from 'next/link';
 
 // This is the title on the homepage 
 const name = 'Jón Ólafur	';
-export const siteTitle = 'Next.js Sample Website';
+export const siteTitle = 'Next.js Blog Website';
 
 export default function Layout({ children, home }) {
   return (
